@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 first line changes;
+=======
+change first line ;
+>>>>>>> d63b6a7002fa69ffa2a914a589a00ec5fc6bc485
 second line;
 third lind;
